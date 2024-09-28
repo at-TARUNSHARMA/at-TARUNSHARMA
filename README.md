@@ -36,7 +36,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=at-tarunsharma&" alt="at-tarunsharma" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=at-tarunsharma&show_icons=true&locale=en" alt="at-tarunsharma" /></p>
-<img align="right" height="150" src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e47om41lzkfehg760kkbax5ypufkgxm978kafgjluya&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<img height="150" src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e47om41lzkfehg760kkbax5ypufkgxm978kafgjluya&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 <br><br>
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
