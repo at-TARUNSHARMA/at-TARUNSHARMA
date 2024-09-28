@@ -37,7 +37,7 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=at-tarunsharma&show_icons=true&locale=en" alt="at-tarunsharma" /></p>
 <img align="right" height="150" src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e47om41lzkfehg760kkbax5ypufkgxm978kafgjluya&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
 <div>
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
