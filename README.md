@@ -14,8 +14,9 @@
 - 📫 How to reach me **tarunsharmakhurja10@gmail.com**
 
 - 📄 Know about my experiences [https://at-tarunsharma.netlify.app/TARUN%20SHARMA%20resume%202005110100120.pdf](https://at-tarunsharma.netlify.app/TARUN%20SHARMA%20resume%202005110100120.pdf)
+<br><br>
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://twitter.com/_sharma_tarun_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_sharma_tarun_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/at-tarunsharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="at-tarunsharma" height="30" width="40" /></a>
@@ -41,7 +42,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=at-tarunsharma&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="at-tarunsharma" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=at-tarunsharma&show_icons=true&locale=en&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="at-tarunsharma" /></p>
+<p>&nbsp;<img align="left" src="[https://github-readme-stats.vercel.app/api?username=at-tarunsharma&show_icons=true&locale=en&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact](https://github-readme-stats.vercel.app/api?username=at-tarunsharma&show_icons=true&locale=en&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)" alt="at-tarunsharma" /></p>
 <img align="right" height="150" src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e47om41lzkfehg760kkbax5ypufkgxm978kafgjluya&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 <br><br><br><br><br><br><br><br>
 <div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">🌐 Socials</h2><a id="user-content--socials" class="anchor" aria-label="Permalink: 🌐 Socials" href="#-socials"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
