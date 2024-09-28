@@ -59,7 +59,7 @@
   </a>
 </p>
 
-## Backend
+<span style="all: unset;"><h3> Backend</h3></span>
 <p align="left">
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
@@ -75,7 +75,7 @@
   </a>
 </p>
 
-## Tools
+<span style="all: unset;"><h3> Tools</h3></span>
 <p align="left">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
@@ -94,7 +94,7 @@
   </a>
 </p>
 
-## Databases
+<span style="all: unset;"><h3>Databases</h3></span>
 <p align="left">
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
@@ -110,7 +110,7 @@
   </a>
 </p>
 
-## Programming Languages
+<span style="all: unset;"><h3>Programming Languages</h3></span>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
