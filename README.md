@@ -16,6 +16,7 @@
 - 📄 Know about my experiences [https://at-tarunsharma.netlify.app/TARUN%20SHARMA%20resume%202005110100120.pdf](https://at-tarunsharma.netlify.app/TARUN%20SHARMA%20resume%202005110100120.pdf)
 <br><br>
 
+
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://twitter.com/_sharma_tarun_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_sharma_tarun_" height="30" width="40" /></a>
